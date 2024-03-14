@@ -127,9 +127,12 @@ footer:
     - label : Repo on Github # Label
       icon  : fab fa-github # Fontawesome 5 icon
       url   : https://github.com/juansonGrajales/ # A link or email: https://twitter.com/jack, mail@example.com
-    - label: "LinkedIn"
-      icon: "fa fa-linkedin"
-      url:  "https://www.linkedin.com/in/juan-carlos-grajales/"
+    - label: LinkedIn
+      icon: fa fa-linkedin
+      url:  https://www.linkedin.com/in/juan-carlos-grajales/
+    - label: Twitter
+      icon: fa fa-twitter
+      url:  https://twitter.com/JuanKa_Grajales
   copyright: # default is © <year> <name> 
   
 # C. Theme Settings

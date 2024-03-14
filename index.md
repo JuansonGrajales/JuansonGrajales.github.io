@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: landingpage
 title: Juan Grajales
-header_type: hero
+header_type: splash
 subtitle: Explorer
 ---
 

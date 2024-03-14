@@ -2,9 +2,15 @@
 layout: landingpage
 title: Juan Grajales
 header_type: splash
-header_img: ""
+header_img: "./assets/img/site/daniel-j-schwarz-h5wtGZMMCNE-unsplash.jpg"
 og_image: "./assets/img/site/daniel-j-schwarz-h5wtGZMMCNE-unsplash.jpg"
 subtitle: Explorer
+include_on_search: true
+show_sociallinks: false
+project_links:
+    - url: https://github.com/JuansonGrajales
+      icon: fab fa-github fa-lg
+      label: Follow
 ---
 
 Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).

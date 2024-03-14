@@ -2,6 +2,8 @@
 layout: landingpage
 title: Juan Grajales
 header_type: splash
+header_img: ""
+og_image: "./assets/img/site/banner.png"
 subtitle: Explorer
 ---
 

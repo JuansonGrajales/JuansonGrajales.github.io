@@ -11,6 +11,19 @@ project_links:
     - url: https://github.com/JuansonGrajales
       icon: fab fa-github fa-lg
       label: Follow
+author:
+  name: JCG
+  avatar: https://github.com/octocat.png
+  location: California, United States
+  links:                
+    - url: https://github.com/github/
+      icon: "fab fa-github"
+    - url: https://twitter.com/github
+      icon: fab fa-twitter
+    - url: https://github.com/facebook
+      icon: "fab fa-facebook"
+    - url: https://www.linkedin.com
+      icon: "fab fa-linkedin"
 ---
 
 Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).

@@ -3,7 +3,7 @@ layout: landingpage
 title: Juan Grajales
 header_type: splash
 header_img: "./assets/img/site/daniel-j-schwarz-h5wtGZMMCNE-unsplash.jpg"
-og_image: "./assets/img/site/daniel-j-schwarz-h5wtGZMMCNE-unsplash.jpg"
+og_image: "./assets/img/site/banner.png"
 subtitle: Explorer
 include_on_search: true
 show_sociallinks: false

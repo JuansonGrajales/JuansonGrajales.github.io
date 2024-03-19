@@ -31,6 +31,6 @@ author:
 [**AWS Serverless Notes App**](https://github.com/JuansonGrajales/serverless-notes-app)
 The Serverless Notes App is a dynamic application built with React and AWS serverless technologies, designed for note-taking with functionalities to create, read, update, and delete notes. It leverages AWS Lambda, API Gateway, and DynamoDB for backend logic, and AWS S3 and CloudFront for content hosting and delivery.
 
-[**Narrator**](https://github.com/JuansonGrajales/)
-Working progress
+[**Narrator**](https://github.com/JuansonGrajales/narrator)
+Narrator is a Python project that combines the power of [ChatGPT](https://chat.openai.com/auth/login) and [ElevenLabs](https://elevenlabs.io/) to provide narration for videos with a specific voice. Imagine having a video of a day at the office narrated by the iconic voice of [David Attenborough](https://en.wikipedia.org/wiki/David_Attenborough). This tool brings that possibility to life, allowing for creative and engaging video presentations.
 

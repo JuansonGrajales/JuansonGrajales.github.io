@@ -27,7 +27,7 @@ author:
 ---
 
 ## Projects
-### [**LLM-RAG-chatbot](https://github.com/JuansonGrajales/LLM-RAG-Chatbot)
+### [**LLM-RAG-chatbot**](https://github.com/JuansonGrajales/LLM-RAG-Chatbot)
 This project implements a chatbot powered by Large Language Models (LLM) through Retrieval-Augmented Generation (RAG). RAG enhances LLM capabilities by retrieving relevant information from a database, enabling the generation of contextually relevant responses. Specifically, this chatbot is designed for use within a hospital system, capable of retrieving and providing information on patients, patient experiences, visits, insurance payers, and physicians.
 
 ### [**AWS Serverless Notes App**](https://github.com/JuansonGrajales/serverless-notes-app)
